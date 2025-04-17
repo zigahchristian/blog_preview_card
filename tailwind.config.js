@@ -22,9 +22,8 @@ export const theme = {
       },
     },
     fontFamily: {
-      figregular: ["Figtree-100", "cursive"],
-      figbold: ["Figtree-400", "cursive"],
-      figextrabold: ["Figtree-700", "cursive"],
+      figtree: ["FigTree", "sans-serif"],
+     
     },
   },
 };

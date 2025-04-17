@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "FigTree";
+  src: url("./assets/fonts/figtree-latin-300-normal.ttf");
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
